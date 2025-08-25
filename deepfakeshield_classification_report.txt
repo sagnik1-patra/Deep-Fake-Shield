@@ -1,0 +1,11 @@
+=== DeepFakeShield: Balanced Logistic Regression (Test) ===
+
+              precision    recall  f1-score   support
+
+           0     0.3465    0.6364    0.4487       110
+           1     0.8653    0.6607    0.7493       389
+
+    accuracy                         0.6553       499
+   macro avg     0.6059    0.6485    0.5990       499
+weighted avg     0.7510    0.6553    0.6830       499
+

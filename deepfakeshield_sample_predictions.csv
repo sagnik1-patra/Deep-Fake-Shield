@@ -1,0 +1,6 @@
+filename,abspath,prob_fake,y_pred
+IMG-20250106-WA0009.jpg,C:\Users\sagni\Downloads\DeepFakeShield\archive\Sample_fake_images\Sample_fake_images\fake\IMG-20250106-WA0009.jpg,0.5748569960327797,1
+IMG-20250106-WA0010.jpg,C:\Users\sagni\Downloads\DeepFakeShield\archive\Sample_fake_images\Sample_fake_images\fake\IMG-20250106-WA0010.jpg,0.5450939822765943,1
+IMG-20250106-WA0011.jpg,C:\Users\sagni\Downloads\DeepFakeShield\archive\Sample_fake_images\Sample_fake_images\fake\IMG-20250106-WA0011.jpg,0.4343770628478177,0
+IMG-20250106-WA0012.jpg,C:\Users\sagni\Downloads\DeepFakeShield\archive\Sample_fake_images\Sample_fake_images\fake\IMG-20250106-WA0012.jpg,0.5128875365837401,1
+IMG-20250106-WA0013.jpg,C:\Users\sagni\Downloads\DeepFakeShield\archive\Sample_fake_images\Sample_fake_images\fake\IMG-20250106-WA0013.jpg,0.7094065892688041,1
