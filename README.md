@@ -1,9 +1,9 @@
-🎭 DeepFakeShield: AI-Powered Media Authenticity Checker
+ DeepFakeShield: AI-Powered Media Authenticity Checker
 
 DeepFakeShield is a machine learning system designed to detect deepfake media — manipulated images/videos — using lightweight vision features and supervised ML models.
 It helps identify suspicious content and provides explainable outputs such as correlation heatmaps, accuracy curves, and confusion matrices.
 
-🔑 Features
+ Features
 
 Image/Video Analysis
 
@@ -35,7 +35,7 @@ Batch prediction on test and sample sets.
 
 Single-image prediction with probability of being fake.
 
-📂 Project Structure
+ Project Structure
 DeepFakeShield/
 ├─ archive/                               # dataset root
 │   ├─ train-20250112T065955Z-001/
@@ -65,7 +65,7 @@ DeepFakeShield/
 │   └─ deepfakeshield_classification_report.txt
 └─ README.md
 
-📊 Dataset
+ Dataset
 
 This project assumes you have real and fake images separated into folders:
 
@@ -87,10 +87,10 @@ Sample_fake_images/fake/
 
 Place them under DeepFakeShield/archive/ as shown above.
 
-⚙️ Installation
+ Installation
 pip install pandas numpy pillow scikit-image scikit-learn matplotlib joblib pyyaml tables
 
-🚀 Usage
+ Usage
 1) Train & Predict
 
 Run the main script to train a model and generate predictions + plots:
@@ -154,7 +154,7 @@ Feature Importance
 
 deepfakeshield_feature_importance.csv
 ![Confusion Matrix Heatmap](deepfakeshield_confusion_heatmap.png)
-🔮 Future Extensions
+ Future Extensions
 
 Replace hand-crafted features with CNN/transformer embeddings.
 
